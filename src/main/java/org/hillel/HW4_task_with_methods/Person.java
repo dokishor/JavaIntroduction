@@ -1,4 +1,4 @@
-package org.hillel.HW3_task_with_methods;
+package org.hillel.HW4_task_with_methods;
 
 public class Person {
 

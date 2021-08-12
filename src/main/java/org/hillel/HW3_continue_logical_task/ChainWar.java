@@ -1,4 +1,4 @@
-package org.hillel.HW3_Lesson2_continue_logical_task;
+package org.hillel.HW3_continue_logical_task;
 
 public class ChainWar {
 
